@@ -18,5 +18,5 @@ mat.ylabel('f(x)')
 
 mat.legend()
 
-
+mat.grid(True)
 mat.show()
